@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhr&label=Profile%20views&color=0e75b6&style=flat" alt="azizhr" /> </p>
 
-- 🔭 I’m currently working on [Simulation For Bank System](https://github.com/AzizHr/YouQuiz)
+- 🔭 I’m currently working on [Quiz Platform](https://github.com/AzizHr/YouQuiz)
 
 - 🌱 I’m currently learning **Spring Boot**
 
