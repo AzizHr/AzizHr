@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blog Platform](https://github.com/AzizHr/Bloggy)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Spring Security**
 
 - 📫 How to reach me **azizharkati20@gmail.com**
 
