@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhr&label=Profile%20views&color=0e75b6&style=flat" alt="azizhr" /> </p>
 
-- 🔭 I’m currently working on [Blog Platform](https://github.com/AzizHr/Bloggy)
+- 🔭 I’m currently working on [E-commerce Platform](https://github.com/AzizHr/simple-store)
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently looking for a job as **Java FullStack Developer**
 
 - 📫 How to reach me **azizharkati20@gmail.com**
 
