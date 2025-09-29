@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aziz Harkati</h1>
-<h3 align="center">A Passionate FullStack Web Developer From Morocco</h3>
+<h3 align="center">A Passionate Full Stack Developer From Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhr&label=Profile%20views&color=0e75b6&style=flat" alt="azizhr" /> </p>
 
-- 🌱 I’m currently looking for a job as **FullStack Web Developer**
+- 🌱 I’m currently looking for a job as **Full Stack Web Developer**
 
 - 📫 How to reach me **azizharkati20@gmail.com**
 
